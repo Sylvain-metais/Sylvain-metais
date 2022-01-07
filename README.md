@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ... github
 - 💞️ I’m looking to collaborate on ... open projet , python, linked to mechcnical aspact, industrical aspect, simulation
-- 📫 How to reach me : sylvain.smtgm@gmail.com or s.metais@free.fr
+- 📫 How to reach me , ask me
 
 <!---
 Sylvain-metais/Sylvain-metais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
